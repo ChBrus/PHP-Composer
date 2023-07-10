@@ -1,0 +1,24 @@
+{
+    "name": "chbrus/init-composer",
+    "description": "Ejemplo composer",
+    "type": "library",
+    "require": {
+        "nesbot/carbon": "3.x-dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.6.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chbrus\\InitComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ChBrus",
+            "email": "cbruno.carrillo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

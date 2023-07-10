@@ -1,0 +1,20 @@
+The most important commands that I need to learn:
+    + composer init
+    + composer require
+    + composer dump-autoload
+    + composer install
+    + composer remove
+    + composer self-update
+    + composer update
+
+How to use them (In spanish):
+    + Composer init se utiliza para crear la configuración básica de composer, es decir,
+      se utiliza para inicializar todo el proyecto con Composer
+    + Composer require agrega paquetes de internet a tu proyecto
+    + Composer dump-autoload se utiliza cuando ya tienes listo tu archivo de configuración
+      composer.json
+    + Composer install se utiliza para instalar paso a paso todo lo que se necesita para
+      el proyecto desde 0
+    + Composer remove te ayuda a eliminar todos los paquetes que no necesites en tu proyectos
+    + Composer self-update te ayuda a actualizar a composer como herramienta
+    + Composer update te ayuda a saber si existe alguna actualización

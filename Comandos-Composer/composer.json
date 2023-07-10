@@ -1,0 +1,17 @@
+{
+    "name": "chbrus/comandos-composer",
+    "description": "This is a little example about composer init command",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Chbrus\\ComandosComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ChBrus",
+            "email": "cbruno.carrillo@gmail.com"
+        }
+    ],
+    "require": {}
+}
